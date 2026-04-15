@@ -4,7 +4,12 @@ A Power BI report built on the classic Superstore dataset.
 This was a practice project to get comfortable with Power BI visuals,
 slicers, and building a clean single-page report.
 
+<img width="1714" height="734" alt="34567YUGH" src="https://github.com/user-attachments/assets/bd7f89bc-af27-4216-aaf9-10cef5457684" />
+
 ---
+
+## About
+This is a Power BI project based on Superstore business data.
 
 ## What's in the Dashboard
 
@@ -39,11 +44,14 @@ profit, quantity, category, region, and customer segment data.
 - Using slicers to make dashboards interactive
 - Choosing the right chart type for each insight
 - Formatting a clean, readable single-page layout
+ 
+## Recommendations
+
+- Improve low-profit categories
+- Focus on high-performing regions
+- Monitor profit along with revenue
 
 ## How to Use
 
 Download the `.pbix` file and open in Power BI Desktop (free from Microsoft).
 Use the State slicer to filter all visuals at once.
-
-## Preview
-![Dashboard](dashboard_preview.png)
